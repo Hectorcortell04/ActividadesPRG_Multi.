@@ -26,7 +26,7 @@
         android:layout_marginBottom="16dp"
         android:layout_marginRight="0dp"
         android:layout_marginLeft="0dp"
-        android:text="Mi_imagen"
+        android:text="Mi_Imagen"
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="@+id/textView"
         app:layout_constraintHorizontal_bias="0.0"
@@ -40,5 +40,5 @@
         android:text="Aplicación_7"
         app:layout_constraintStart_toEndOf="@+id/imageView"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="48dp" />
+        tools:layout_editor_absoluteY="49dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
